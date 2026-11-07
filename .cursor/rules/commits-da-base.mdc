@@ -1,11 +1,11 @@
 ---
-description: No fim da conversa, pergunta se commita a base com conventional commit de até 50 caracteres.
+description: No fim da conversa, pergunta se grava a base no git e envia ao remoto.
 alwaysApply: true
 ---
 
 # Commits da base
 
-No fim da conversa, depois da última entrega aceita, pergunte uma vez se o usuário quer um commit local. Uma resposta vale para o lote inteiro. Não mostre a mensagem nem a lista de arquivos. Um não encerra o assunto.
+No fim da conversa, depois da última entrega aceita, pergunte uma vez se o usuário quer gravar a operação no git e enviar ao remoto. Uma resposta vale para o lote inteiro. Não mostre a mensagem nem a lista de arquivos. Um não encerra o assunto.
 
 Pergunte quando a conversa tiver ingest, query arquivada em página, lint que corrigiu com aprovação, mudança de esquema (`CLAUDE.md`) ou mudança de estrutura (pastas). Consulta que só responde e lint que só relata não perguntam.
 
@@ -17,4 +17,4 @@ Exemplo: `docs: ingest do swagger do bff`
 
 Fora do stage: `desktop.ini`, `.obsidian/workspace.json` e qualquer alteração que não seja desta operação. Se o working tree tiver outro lote, o commit não o inclui. Avise numa frase, sem listar arquivos.
 
-O commit só acontece com um sim explícito. Depois do commit, pergunte à parte se envia ao remoto. Push só com um segundo sim. Commit novo, sem `--amend`. Push sem `--force`.
+O sim grava o commit e envia ao remoto na mesma hora. Não pergunte de novo se envia. Commit novo, sem `--amend`. Push sem `--force`.
