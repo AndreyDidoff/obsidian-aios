@@ -45,7 +45,7 @@ Definido em 2026-10-20. Ampliado no mesmo dia com a LyraUI e a engenharia. Snaps
 | `fonte` | Resumo de um documento bruto (ou de decisões dadas no chat), um por fonte | `wiki/fontes/` | pré-definido |
 | `entidade` | Ator concreto e nomeado: empresa, pessoa | `wiki/entidades/` | 2026-10-20 |
 | `conceito` | Tema, funcionalidade, regra de negócio ou ideia que atravessa fontes | `wiki/conceitos/` | 2026-10-20 |
-| `sintese` | Visão transversal da wiki inteira (visão geral, contradições) | raiz de `wiki/` (menos de 3) | 2026-10-20 |
+| `sintese` | Visão transversal da wiki inteira (visão geral, contradições) | `wiki/sinteses/` | 2026-10-20 |
 | `pendencia` | Ajuste para o produto do MVP chegar ao alvo. Frontmatter leva `superficie: app-cliente` ou `superficie: backend` | `wiki/pendencias/` | 2026-11-05 |
 
 `wiki/fontes/` é a única subpasta que existe desde o início, porque todo ingest produz uma página `fonte`.

@@ -320,3 +320,7 @@ A releitura do `05` e do `06` achou frases que o alvo não diz, ou que o alvo de
 ## [2026-11-07] estrutura | Contradições divididas por tema
 
 [[contradicoes-e-lacunas]] virou índice. Do MVP: [[contradicoes-conta]], [[contradicoes-agendamento]], [[contradicoes-busca]], [[contradicoes-avaliacao]], [[contradicoes-escopo]]. Fora do produto do MVP: [[contradicoes-negocio]], [[contradicoes-kit]], [[contradicoes-engenharia]]. Os números 1 a 35 permanecem. Nenhum status mudou.
+
+## [2026-11-07] esquema | Síntese passa a ter pasta
+
+Dez páginas `sintese` passaram para `wiki/sinteses/`. A tabela de tipos em CLAUDE.md aponta essa pasta. O wikilink continua por nome.
