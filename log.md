@@ -316,3 +316,7 @@ A releitura do `05` e do `06` achou frases que o alvo não diz, ou que o alvo de
 - [[app-cliente-descoberta]]: a home não abre sem conta. Sem conta, Início, Agenda e Perfil abrem a tela de bloqueio. A aba Artistas fica livre. O deslogado não "usa endereço sem salvar" em todo caso: começa com o do welcome; na troca pela listagem, o botão é "Usar este endereço". O logado salva todo endereço novo. A foto de divulgação não aparece no perfil no MVP.
 - [[app-cliente-agendamento]]: o cartão tem menu. O toque não abre detalhe. Sem check-out, o cartão fica em Próximos até a meia-noite.
 - [[cadastro]], [[busca-e-filtros]], [[agendamento]], [[mvp]], [[app-do-cliente]] e [[app-do-artista]]: saíram as frases que ainda tratavam duas etapas, telefone na segunda, "espera o arquivo de telas" e "endereço sem salvar" como alvo do cliente. O detalhe de tela do artista continua sem chegar.
+
+## [2026-11-07] estrutura | Contradições divididas por tema
+
+[[contradicoes-e-lacunas]] virou índice. Do MVP: [[contradicoes-conta]], [[contradicoes-agendamento]], [[contradicoes-busca]], [[contradicoes-avaliacao]], [[contradicoes-escopo]]. Fora do produto do MVP: [[contradicoes-negocio]], [[contradicoes-kit]], [[contradicoes-engenharia]]. Os números 1 a 35 permanecem. Nenhum status mudou.

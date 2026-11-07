@@ -9,7 +9,15 @@ Ponto de partida: [[visao-geral]].
 | Página | Resumo | Fontes |
 |---|---|---|
 | [[visao-geral]] | O que é a WeCareU, a aposta, o MVP do cliente fechado em 05/11, o mesmo backend nos dois apps; teste local até 31/12/2026 | 39 |
-| [[contradicoes-e-lacunas]] | 35 contradições; o detalhe do cliente fechou em 05/11; itens 12, 18, 20 a 24, 27 e 28 continuam retrato | 116 |
+| [[contradicoes-e-lacunas]] | Índice por tema; do MVP: conta, agendamento, busca, avaliação e escopo | 116 |
+| [[contradicoes-conta]] | Do MVP. Conta, cadastro, sessão, SMS e 2FA. Itens 2, 14, 15, 25, 28, 29, 34 | 1 |
+| [[contradicoes-agendamento]] | Do MVP. Contato, chat, endereço e lembretes. Itens 4, 13, 16, 33 | 1 |
+| [[contradicoes-busca]] | Do MVP. Ranking e card. Itens 9, 19, 31 | 1 |
+| [[contradicoes-avaliacao]] | Do MVP. Avaliação, sanção e denúncia. Itens 17, 32, 35 | 1 |
+| [[contradicoes-escopo]] | Do MVP. O que entra, o que fica fora e o que precisa estar pronto antes. Itens 1, 3, 5, 10, 11, 12, 26, 30 | 1 |
+| [[contradicoes-negocio]] | Fora do produto do MVP. Capital, redação e missão. Itens 6, 7, 8 | 1 |
+| [[contradicoes-kit]] | Fora do produto do MVP. Kit visual. Itens 20, 21, 22, 23, 24, 27 | 1 |
+| [[contradicoes-engenharia]] | Fora do produto do MVP. Monorepo, código, e-mail, sessão, board e bancos. Item 18 | 1 |
 
 ## Entidades
 
