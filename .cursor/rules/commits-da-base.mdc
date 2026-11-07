@@ -1,0 +1,20 @@
+---
+description: No fim da conversa, pergunta se commita a base com conventional commit de até 50 caracteres.
+alwaysApply: true
+---
+
+# Commits da base
+
+No fim da conversa, depois da última entrega aceita, pergunte uma vez se o usuário quer um commit local. Uma resposta vale para o lote inteiro. Não mostre a mensagem nem a lista de arquivos. Um não encerra o assunto.
+
+Pergunte quando a conversa tiver ingest, query arquivada em página, lint que corrigiu com aprovação, mudança de esquema (`CLAUDE.md`) ou mudança de estrutura (pastas). Consulta que só responde e lint que só relata não perguntam.
+
+Só ofereça o commit com `index.md` e `log.md` já refletindo a operação. O move de `raw/` para `ingeridos/` entra no mesmo commit da página `fonte`.
+
+Um commit por operação. Conventional commit, em português, só o título, no máximo 50 caracteres já com o prefixo. Sem corpo. `docs` para páginas, índice e log. `chore` para pastas e move de fonte. Se o título da fonte não couber, encurte pelo nome da operação. Conte os caracteres e encurte antes de gravar se passar de 50.
+
+Exemplo: `docs: ingest do swagger do bff`
+
+Fora do stage: `desktop.ini`, `.obsidian/workspace.json` e qualquer alteração que não seja desta operação. Se o working tree tiver outro lote, o commit não o inclui. Avise numa frase, sem listar arquivos.
+
+O commit só acontece com um sim explícito. Depois do commit, pergunte à parte se envia ao remoto. Push só com um segundo sim. Commit novo, sem `--amend`. Push sem `--force`.
