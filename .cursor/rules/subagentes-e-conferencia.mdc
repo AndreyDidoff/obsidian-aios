@@ -1,0 +1,17 @@
+---
+description: Cada entrega é de um subagente e só segue depois da conferência do pai. O usuário não precisa pedir.
+alwaysApply: true
+---
+
+# Subagentes e conferência
+
+Este é o modo de trabalho. O usuário não precisa pedir subagente nem conferência.
+
+Cada entrega (página, arquivo ou item de um plano) vai para um subagente. O pai não escreve a entrega.
+
+- O subagente recebe uma entrega só, a lista fechada do que pode ler, o que está proibido e os testes de aceite.
+- O pai lê o arquivo gravado e aplica os testes. Aceite ou recusa. Recusa cita o teste que falhou. Só essa entrega é refeita.
+- A próxima entrega só começa depois do aceite.
+- Escrever a entrega no pai, ou seguir sem conferir a anterior, está errado. Conferir o próprio texto não conta como conferência.
+
+Pergunta que só pede uma resposta fica com o pai. Assim que a resposta vira página, arquivo ou sequência de entregas, vale o modo acima.

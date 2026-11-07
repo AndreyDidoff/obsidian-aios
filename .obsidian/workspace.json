@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "f85f7972842eb8e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e586456ddb4318c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff693e41ab32a328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/contradicoes-e-lacunas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "contradicoes-e-lacunas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec5abec47f21f2fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb6efb93c650e154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed95f26df3be7ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "5bbff1c80afad128",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c591a0c7adbdd4cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a3dae4894b4878a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1805a5f66eb3202e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e7f879a5c21adcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "988d69dbf2e6c1d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "25f8bd41dd34fc5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f4ebb47f98425e11",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "6998f80a4577758b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "ff693e41ab32a328",
+  "lastOpenFiles": [
+    "wiki/contradicoes-kit.md",
+    "wiki/contradicoes-negocio.md",
+    "wiki/contradicoes-escopo.md",
+    "wiki/contradicoes-avaliacao.md",
+    "wiki/contradicoes-busca.md",
+    "wiki/contradicoes-agendamento.md",
+    "wiki/contradicoes-conta.md",
+    "wiki/pendencias/app-cliente-conta.md",
+    "wiki/pendencias/app-cliente-agendamento.md",
+    "wiki/pendencias/app-cliente-copys.md",
+    "wiki/pendencias/backend-mvp-listagem.md",
+    "wiki/contradicoes-e-lacunas.md",
+    "wiki/fontes/pendencias.md",
+    "wiki/entidades/bruno.md",
+    "ingeridos/07-catalogo-de-copys-cliente.md",
+    "ingeridos/06-alteracoes-pos-congelamento.md",
+    "ingeridos/05-lista-funcoes-e-telas.md",
+    "wiki/pendencias/app-cliente-descoberta.md",
+    "wiki/pendencias/backend-mvp-fundacoes.md",
+    "wiki/pendencias/backend-mvp-avaliacao-e-avisos.md",
+    "wiki/pendencias/backend-mvp-conta.md",
+    "wiki/pendencias/backend-mvp-agendamento.md",
+    "wiki/pendencias",
+    "wiki/fontes/mvp-copys-cliente.md",
+    "wiki/fontes/mvp-alteracoes-pos-congelamento.md",
+    "wiki/fontes/mvp-funcoes-e-telas.md",
+    "wiki/conceitos/termos-e-responsabilidades.md",
+    "wiki/_tmp_item24.txt",
+    "Sem título.canvas",
+    "raw/Não confirmado 305001.crdownload",
+    "raw/Não confirmado 933958.crdownload",
+    "raw/Não confirmado 972004.crdownload",
+    "raw/Não confirmado 902846.crdownload",
+    "raw/Não confirmado 813084.crdownload",
+    "raw/Não confirmado 734126.crdownload",
+    "raw/Não confirmado 721218.crdownload",
+    "raw/Não confirmado 352690.crdownload"
+  ]
+}
